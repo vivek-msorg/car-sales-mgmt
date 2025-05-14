@@ -1,0 +1,14 @@
+- adx_managecontentsnippets: false
+  adx_managesitemarkers: false
+  adx_manageweblinksets: false
+  adx_name: Preview permission for Blank Template
+  adx_previewunpublishedentities: true
+  adx_websiteaccessid: b6f5c698-e5f6-4ec9-a5e5-1a3b3f67e4e3
+- adx_managecontentsnippets: true
+  adx_managesitemarkers: true
+  adx_manageweblinksets: true
+  adx_name: Administrative permissions for Blank Template
+  adx_previewunpublishedentities: true
+  adx_websiteaccess_webrole:
+  - a5d8b62b-cd08-40e1-9b98-2923c40e7c81
+  adx_websiteaccessid: a2403850-5828-4152-b0bf-8449c853e33c
